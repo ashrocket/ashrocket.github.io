@@ -1,4 +1,4 @@
 ashrocket.github.io
 ===================
 
-Technical notes and wisecracks about coding or design
+This is not a resume
